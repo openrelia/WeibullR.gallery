@@ -63,3 +63,13 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/bathtub_life.jpg)
+
+ 
+
+**Life Data Division as Competing Modes**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/competing_modes.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/competing_modes.jpg)
