@@ -73,3 +73,13 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/competing_modes.jpg)
+
+ 
+
+**Linearized 3p fits by t0 modification**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/linearized3p.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/linearized3p.jpg)
