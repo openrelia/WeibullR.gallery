@@ -1,0 +1,5 @@
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/contour_challenge.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/manipulate_contour_challenge.r")
+
+agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/acid_gas_compressor.csv", header=T)\$agc
+F3.13da<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/Figure3.13.csv", header=T)\$F3.13da
