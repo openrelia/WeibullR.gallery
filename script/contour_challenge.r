@@ -13,4 +13,4 @@ teq_frame<-rbind(fail_edata, sus_edata)
 teq_frame
 
 require(WeibullR)
-contour(wblr(teq_frame))
+contour(wblr(teq_frame),col="grey")
