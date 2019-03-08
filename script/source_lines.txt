@@ -1,0 +1,2 @@
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/contour_challenge.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/manipulate_contour_challenge.r")
