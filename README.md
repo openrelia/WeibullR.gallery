@@ -10,7 +10,7 @@ Test examples:
 
  
 
-### **Loading a vector from a .csv file**
+**Loading a vector from a .csv file**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/acid_gas_compressor.csv", header=T)$agc
@@ -18,7 +18,7 @@ agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/mast
 
  
 
-### **Ruining a script **
+**Running a script**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/contour_challenge.r")
@@ -26,7 +26,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
  
 
-### **A script that displays a dataframe**
+**A script that displays a dataframe**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/manipulate_contour_challenge.r")
