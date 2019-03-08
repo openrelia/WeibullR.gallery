@@ -9,3 +9,4 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 images
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13multi.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour_challenge.jpg
