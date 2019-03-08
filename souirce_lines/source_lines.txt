@@ -3,3 +3,9 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/acid_gas_compressor.csv", header=T)\$agc
 F3.13da<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/Figure3.13.csv", header=T)\$F3.13da
+
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/F3.13ln.r")
+
+images
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13multi.jpg
