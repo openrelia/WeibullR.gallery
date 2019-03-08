@@ -10,4 +10,4 @@ sq<-sdf[,2]
 fail_edata<-data.frame(time=ft, event=rep(1,length(ft)), qty=fq)
 sus_edata<-data.frame(time=st, event=rep(0, length(st)), qty=sq)
 teq_frame<-rbind(fail_edata, sus_edata)
-print(teq_frame)
+View(teq_frame)
