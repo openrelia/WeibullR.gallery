@@ -9,7 +9,7 @@ F3.13da<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/F3.13ln.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/bathtub_life.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/competing_modes.r")
-
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/linearized3p.r")
 
 images
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg
@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figur
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour_challenge.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/bathtub_life.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/competing_modes.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/linearized3p.jpg
