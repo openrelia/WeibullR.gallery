@@ -24,7 +24,7 @@ agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/mast
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/script/contour_challenge.r")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
+![](../../../Dropbox/IntroducingWeibullR/contour_challenge.jpg)
 
 **A script that displays a dataframe**
 
