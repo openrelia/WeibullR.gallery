@@ -5,6 +5,9 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/acid_gas_compressor.csv", header=T)\$agc
 F3.13da<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/Figure3.13.csv", header=T)\$F3.13da
+dataset1<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/compare_6-MP/dataset1.csv")
+dataset2<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/compare_6-MP/dataset2.csv")
+
 
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/F3.13ln.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/bathtub_life.r")
