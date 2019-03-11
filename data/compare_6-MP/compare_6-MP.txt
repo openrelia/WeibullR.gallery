@@ -10,9 +10,6 @@ a long time. Sources include:
 Gehan, E.A. (1965) A generalized Wilcoxon test for comparing arbitrarily single-censored samples. Biometrika 52, 203–233
 Cox, D. R. and Oakes, D. (1984) Analysis of Survival Data. Chapman & Hall
 
-This is the data used for Figure7-6 in "The New Weibull Handbook", page 7-12.
-Data set 1 is the 6-MP treated group.
-Data set 2 is the control.
 
 library(MASS)
 gehan
