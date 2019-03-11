@@ -1,0 +1,10 @@
+The contour_challenge data was submitted by a user in industry. 
+These are the exact file sent. 
+Due to many repeated values in the data it was best to manipulate it into 
+a time-event-qty dataframe. This was a good test for R useage on its own.
+
+When attempting the likelihood ratio bounds it was found that the contour
+preparation was particularly challenging. This led to revision of the code
+seeking the radial distance from mle point in a divide and seek method rather
+than the original quasi-Newton secant method. Upon reaching a "stable contour"
+code it was resolved to submit WeibullR to CRAN for the first time.

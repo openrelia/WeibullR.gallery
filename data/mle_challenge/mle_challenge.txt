@@ -1,0 +1,17 @@
+This mle_challenge dataset was submitted by a user, who discovered that
+the original WeibullR CRAN submission would crash upon attempted 
+2-parameter Weibull fitting.
+
+This user was studying low failure rate engine parts. This was
+one of several datasets that exposed this bug. 
+
+Several validating runs on other software revealed that this fit
+should be accomplished. But the most compelling reason for debug 
+was the hard crash that would ensue.
+
+Protective code was first added resulting in graceful termination 
+of attempted fitting with negative parameters.
+The real cause of negative parameter generation turned out to be
+resolved by running the Nelder-Mead, simplex optimization using 
+the log of eta. It turns out that this is widely used by others 
+using parameters mu [as log(eta)] and sigma [as 1/beta].

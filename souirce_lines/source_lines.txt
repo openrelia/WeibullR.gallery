@@ -11,6 +11,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/competing_modes.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/linearized3p.r")
 
+
 images
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13multi.jpg
