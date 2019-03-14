@@ -1,0 +1,4 @@
+This example came from a user at AWS. No idea what she was studying
+but it reinforced the need to run the Johnson rank adjustment loop in C++.
+
+There are 231,152 data entries here, many duplicates, many suspensions.

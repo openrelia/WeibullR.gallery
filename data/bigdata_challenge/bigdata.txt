@@ -1,0 +1,4 @@
+This example of big data came from an industrial user 
+studying truck parts with low fail rates.
+ 
+There are 22916 data points (mostly suspensions) in this file.
