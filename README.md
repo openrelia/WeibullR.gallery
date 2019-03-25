@@ -39,7 +39,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 **Replicating Figure3.13 from “The New Weibull Handbook”**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/F3.13ln.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/Fig3.13ln.r")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg)
@@ -49,7 +49,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 **A Multi-Distribution plot on Weibull Canvas**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/F3.13multi.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/Fig3.13multi.r")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13multi.jpg)
