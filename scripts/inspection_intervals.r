@@ -24,7 +24,7 @@
 	)	
 	obj<-wblr.fit(obj, method.fit="mle", col="red")
 	obj<-wblr.conf(obj, method.conf="fm", ci=.95, lty=2, lwd=1)
-	obj<-wblr.conf(obj, method.conf="lrb", ci=.95, lty=2, lwd=1, col="orange")
+	obj<-wblr.conf(obj, method.conf="lrb", ci=.95, lty=2, lwd=1, col="green")
 	
 	
 	plot(obj, main="Parts Cracking Inspection\n Interval Analysis",		
