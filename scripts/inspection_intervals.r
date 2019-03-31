@@ -23,7 +23,8 @@
 		interval.lty="dashed", interval.lwd=1, interval.col="blue"
 	)	
 	obj<-wblr.fit(obj, method.fit="mle", col="red")
-	obj<-wblr.conf(obj, method.conf="lrb", ci=.95, lty=2, lwd=1)
+	obj<-wblr.conf(obj, method.conf="fm", ci=.95, lty=2, lwd=1)
+	obj<-wblr.conf(obj, method.conf="lrb", ci=.95, lty=2, lwd=1, col="orange")
 	
 	
 	plot(obj, main="Parts Cracking Inspection\n Interval Analysis",		
