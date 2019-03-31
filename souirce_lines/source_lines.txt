@@ -9,7 +9,7 @@ control<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/
 treat6mp<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/compare_6-MP/treat6mp.csv")
 
 
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/F3.13ln.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/Fig3.13ln.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/bathtub_life.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/competing_modes.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/linearized3p.r")

@@ -92,4 +92,23 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/compare_6mp.jpg)
 
+**Inspection Data for Cracks in Parts in Service - Probit Analysis**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/probit_1.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](images/parts_cracking_probit.jpg)
+
  
+
+**Interval Analysis on Parts Cracking Data**
+
+(Requires WeibullR version \> 1.0.11.4 available on
+[R-Forge](https://r-forge.r-project.org/R/?group_id=2252))
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/inspection_intervals.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](images/parts_cracking_interval.jpg)
