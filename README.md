@@ -119,4 +119,4 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/weibayes_study.r")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![](images/weibayes study.jpg)
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weibayes_study.jpg)
