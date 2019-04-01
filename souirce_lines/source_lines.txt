@@ -17,6 +17,8 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/probit_1.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/inspection_intervals.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/weibayes_study.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM.r")
+
 
 images
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/Figure3.13.jpg
@@ -27,3 +29,6 @@ https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/compe
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/linearized3p.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/compare_6mp.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/parts_cracking_probit.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weibayes_study.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p.jpg
+
