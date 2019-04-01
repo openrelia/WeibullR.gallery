@@ -120,3 +120,11 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weibayes_study.jpg)
+
+**Fisher Matrix Bounds on a 3-Parameter Model**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p.jpg)
