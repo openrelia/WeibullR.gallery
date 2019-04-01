@@ -18,7 +18,8 @@
 	left<-c(0, x$time[-nrow(x)])	
 	right<- x$time	
 	suspensionDF<-data.frame(time=max(x$time), event=0, qty=qis-sum(x$qty))	
-		
+## WeibullR version 1.0.11.4 added support for the mixed input used here
+	require(WeibullR)
 	obj<-wblr(x=suspensionDF, interval=data.frame(left, right, qty=x$qty),
 		interval.lty="dashed", interval.lwd=1, interval.col="blue"
 	)	

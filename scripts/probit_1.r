@@ -20,7 +20,8 @@ ppp<-cumsum(x$qty/qis)
 # reverse Benard calculation to make the beta binomial bounds work		
 adj_rank<-ppp*(qis + .4) + .3		
 dpoints<-data.frame(time=x$time, ppp, adj_rank, weight=rep(1, nrow(x)))		
-		
+
+require(WeibullR)		
 obj<-wblr(time, col="red")		
 obj$data$dpoints<-dpoints
 # option pp has no effect after initial wblr call
