@@ -121,6 +121,18 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weibayes_study.jpg)
 
+**Contour to Bounds**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/contour2bounds.r")
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour2bounds.jpg)
+
+ 
+
+ 
+
 **Fisher Matrix Bounds on a 3-Parameter Model**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
