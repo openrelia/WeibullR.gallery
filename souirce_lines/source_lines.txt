@@ -17,6 +17,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/probit_1.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/inspection_intervals.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/weibayes_study.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/contour2bounds.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM.r")
 
 
