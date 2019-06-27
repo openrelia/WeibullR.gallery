@@ -1,14 +1,11 @@
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/contour_challenge.r")
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/manipulate_contour_challenge.r")
-
-
-
+data
 agc<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/acid_gas_compressor.csv", header=T)\$agc
 F3.13da<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/Figure3.13.csv", header=T)\$F3.13da
 control<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/compare_6-MP/control.csv")
 treat6mp<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/compare_6-MP/treat6mp.csv")
+w2test<-read.csv("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/data/w2test.csv")
 
-
+scripts
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/Fig3.13ln.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/bathtub_life.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/competing_modes.r")
@@ -19,6 +16,8 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/weibayes_study.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/contour2bounds.r")
 source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/contour_challenge.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/manipulate_contour_challenge.r")
 
 
 images
@@ -32,4 +31,4 @@ https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/compa
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/parts_cracking_probit.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weibayes_study.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p.jpg
-
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour2bounds.jpg
