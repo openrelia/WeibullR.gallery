@@ -34,3 +34,4 @@ https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/weiba
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p2.jpg
 https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour2bounds.jpg
+https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/LR_3pcontour_bounds.jpg
