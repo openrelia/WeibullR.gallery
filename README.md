@@ -129,6 +129,8 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour2bounds.jpg)
 
+**Likelihood Ratio Bounds on a 3-Parameter** **Model**
+
  
 
  
@@ -136,7 +138,7 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 **Fisher Matrix Bounds on a 3-Parameter Model**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM.r")
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/three_parameter_FM2.r")
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p.jpg)
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/FM3p2.jpg)
