@@ -129,9 +129,14 @@ source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scri
 
 ![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/contour2bounds.jpg)
 
-**Likelihood Ratio Bounds on a 3-Parameter** **Model**
+**Likelihood Ratio Bounds on a 3-Parameter Model**
 
- 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source("https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/scripts/LRbounds_3p.r")
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+![](https://raw.githubusercontent.com/openrelia/WeibullR.gallery/master/images/LR_3pcontour_bounds.jpg)
 
  
 
