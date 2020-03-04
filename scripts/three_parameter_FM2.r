@@ -18,7 +18,8 @@ event<-rep(1, length(w2test))
 fit<-mlefit(mleframe(w2test), npar=3)		
 mu<-log(fit[1])             # log(Eta)		
 sigma<-1/fit[2]             # 1/Beta		
-gamma<-xfit(obj)$fit[3]  	# t0		
+##gamma<-xfit(obj)$fit[3]  	# t0
+gamma<-fit[3]  	# t0		
 ## confidence interval fixed here at 95%		
 alpha<-1-.95		
 		
