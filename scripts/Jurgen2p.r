@@ -17,7 +17,7 @@ obj_list<-list()
 for(x in 1:S) {
 	sample<-rweibull(nf,par[2],par[1])
 	obj_list[[x]]<-wblr(x=sample, s=rep(10,ns), col="transparent")
-	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="gray", lwd=.1)
+	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="darkgray", lwd=.1)
 }
 
 # Back end function pivotal.rr can be used to identify the median from a 

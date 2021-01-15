@@ -51,7 +51,7 @@ for(x in 1:S) {
 	sample<-rweibull((nf+ns),par[2],par[1])	
 	sample_TEDF<-data.frame(time=sort(sample), event=event_vec)	
 	obj_list[[x]]<-wblr(sample_TEDF, col="transparent")	
-	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="gray", lwd=.1)	
+	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="darkgray", lwd=.1)	
 }	
 
 	
