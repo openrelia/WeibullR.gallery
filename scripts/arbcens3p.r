@@ -47,7 +47,7 @@ for(x in 1:Sg) {
 	sample<-rweibull((nf+ns),par[2],par[1])
 	sample_TEDF<-data.frame(time=sort(sample), event=event_vec)
 	obj_list[[x]]<-wblr(sample_TEDF, col="transparent")
-	obj_list[[x]]<-wblr.fit(obj_list[[x]], dist="weibull3p", col="darkgray", lwd=.1)
+	obj_list[[x]]<-wblr.fit(obj_list[[x]], dist="weibull3p", col="gray50", lwd=.1)
 	
 }		
 # descriptive percentiles	

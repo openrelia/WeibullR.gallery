@@ -15,7 +15,7 @@ obj_list<-list()
 for(x in 1:S) {
 	sample<-rweibull(n,1,1)
 	obj_list[[x]]<-wblr(sample, col="transparent")
-	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="darkgray", lwd=.1)
+	obj_list[[x]]<-wblr.fit(obj_list[[x]], col="gray50", lwd=.1)
 }
 
 # graphic presentation
