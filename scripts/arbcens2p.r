@@ -1,4 +1,4 @@
-#abcens2p.r
+#arbcens2p.r
 # this function is required to fill in censored event times in the unity_TEDF					
 unity_TEDF<- function(pivotal_pts, event_vec) {					
 	time_vec<-NULL				
